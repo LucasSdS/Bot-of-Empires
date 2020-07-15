@@ -1,0 +1,173 @@
+{
+  "prefix": "->",
+  "tauntList": { 
+    "1": 	{
+            "name": "Yes.", 
+            "path": "Yes.ogg"
+          }, 	
+    "2": 	{
+            "name" : "No.",
+            "path" : "No.ogg"
+          },
+    "3":  {
+            "name" : "Food please.",
+            "path" : "Food,_please.ogg"
+          },
+    "4":  {
+            "name" : "Wood please.", 	
+            "path" : "Wood,_please.ogg"
+          },
+    "5":	{
+            "name" : "Gold please.", 	
+            "path" : "Gold,_please.ogg"
+          },
+    "6":	{
+            "name" : "Stone please.", 	
+            "path" : "Stone,_please.ogg"
+          },
+    "7":	{
+            "name" : "Ahh!",
+            "path" : "Ahh.ogg"
+          },
+    "8":	{
+            "name" : "All hail, king of the losers!",
+            "path" : "All_hail.ogg" 	
+          },
+    "9":	{
+            "name" : "Ooh!", 	
+            "path" : "Oooh.ogg"
+          },
+    "10": {
+            "name" : "I'll beat you back to Age of Empires.", 	
+            "path" : "Back_to_age_one.ogg"
+          },
+    "11": {
+            "name" : "(Herb laugh)", 	
+            "path" : "Herb_laugh.ogg"
+          },
+    "12": {
+            "name" : "Ah! being rushed.", 	
+            "path" : "Being_rushed.ogg"
+          },
+    "13": { 
+            "name" : "Sure, blame it on your ISP.",
+            "path" : "Blame_your_isp.ogg"
+          },
+    "14": {
+            "name" : "Start the game already!",	
+            "path" : "Start_the_game.ogg"
+          },
+    "15": {
+            "name" : "Don't point that thing at me!",
+            "path" : "Don't_point_that_thing.ogg"
+          },
+    "16": {
+            "name" : "Enemy sighted!",
+            "path" : "Enemy_sighted.ogg" 
+          },
+    "17": {
+            "name" : "It is good to be the king.", 
+            "path" : "It_is_good.ogg"
+          },
+    "18": {
+            "name" : "Monk! I need a monk!", 	
+            "path" : "I_need_a_monk.ogg"
+          },
+    "19": {
+            "name" : "Long time, no siege.", 	
+            "path" : "Long_time_no_siege.ogg"
+          },
+    "20": {
+            "name" : "My granny could scrap better than that.", 	   
+            "path" : "My_granny.ogg"
+          },
+    "21": {
+            "name" : "Nice town, I'll take it.", 	
+            "path" : "Nice_town_i'll_take_it.ogg"
+          },
+    "22": {
+            "name" : "Quit touching me!", 	
+            "path" : "Quit_touchin.ogg"
+          },
+    "23": {
+            "name" : "Raiding party!", 	
+            "path" : "Raiding_party.ogg"
+          },
+    "24": {
+            "name" : "Dadgum.", 	
+            "path" : "Dadgum.ogg"
+          },
+    "25": {
+            "name" : "Eh, smite me.", 	
+            "path" : "Smite_me.ogg"
+          },
+    "26": {
+            "name" : "The wonder, the wonder, the... no!", 	
+            "path" : "The_wonder.ogg"
+          },
+    "27": {
+            "name" : "You played two hours to die like this?", 
+            "path" : "You_play_two_hours.ogg"
+          },	
+    "28": {
+            "name" : "Yeah, well, you should see the other guy.", 	
+            "path" : "Yeah_should_see_the_other_guy.ogg"
+          },
+    "29": {
+            "name" : "Roggan.", 	
+            "path" : "Roggan.ogg"
+          },
+    "30": {
+            "name" : "Wololo.", 	
+            "path" : "Wololo.ogg"
+          },
+    "31": {
+            "name" : "Attack an enemy now.", 	
+            "path" : "Attack_an_enemy_now.ogg"
+          },
+    "32": {
+            "name" : "Cease creating extra villagers.", 	
+            "path" : "Cease_creating_extra_villagers.ogg"
+          },
+    "33": {
+            "name" : "Create extra villagers.", 	
+            "path" : "Create_extra_villagers.ogg"
+          },
+    "34": {
+            "name" : "Build a navy.", 	
+            "path" : "Build_a_navy.ogg"
+          },
+    "35": {
+            "name" : "Stop building a navy.", 	
+            "path" : "Stop_building_a_navy.ogg"
+          },
+    "36": {
+            "name" : "Wait for my signal to attack.", 	
+            "path" : "Wait_for_my_signal_to_attack.ogg"
+          },
+    "37": {
+            "name" : "Build a wonder.", 	
+            "path" : "Build_a_wonder.ogg"
+          },
+    "38": {
+            "name" : "Give me your extra resources.", 	
+            "path" : "Give_me_your_extra_resources.ogg"
+          },
+    "39": {
+            "name" : "(Ally sound)", 	
+            "path" : "Ally.ogg"
+          },
+    "40": {
+            "name" : "(Enemy sound)", 	
+            "path" : "Enemy.ogg"
+          },
+    "41": {
+            "name" : "(Neutral sound)",
+            "path" : "Neutral.ogg"
+          }, 	
+    "42": {
+            "name" : "What age are you in?",
+            "path" : "What_age_are_you_in.ogg"
+          }
+  }
+}
