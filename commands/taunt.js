@@ -19,7 +19,7 @@ module.exports = {
     const connection = await msg.member.voice.channel.join();
 
     try{
-      const dispatcher = connection.play(fs.createReadStream(`public/${this.list[args[1]].path}`));
+      const dispatcher = connection.play(fs.createReadStream(`public/taunts/${this.list[args[1]].path}`));
     }
     catch {
       msg.reply('Taunt not found!');
